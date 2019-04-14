@@ -17,9 +17,9 @@ _If you are interested in contributing to this project, see [DEVELOPMENT.md](DEV
 - [NoSQL](https://github.com/navalta3030/FCC-ELKGROVE/tree/NoSQL)
 
 # How does the app work?
-    1. ask user permession for geolocation.
-    2. user upload or take picture.
-    3. user receives nearby location on where to obtain that item from picture.
+    1. User is asked for permission to access their current location through Google Maps Geolcation API.
+    2. User submits a picture of a food item via upload or phone camera.
+    3. User receives nearby locations offering that food item through Yelp API.
     4. coming soon.....
     
 
