@@ -1,0 +1,22 @@
+{
+  "name": "fcc-elkgrove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaleidics/FCC-ELKGROVE.git"
+  },
+  "author": "Eddie Chu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaleidics/FCC-ELKGROVE/issues"
+  },
+  "homepage": "https://github.com/Kaleidics/FCC-ELKGROVE#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
